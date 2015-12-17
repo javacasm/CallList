@@ -13,12 +13,14 @@ public class MainActivity extends ListActivity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		
+
+
 		
 		Uri llamadas=Uri.parse("content://call_log/calls/");
 		Cursor c=getContentResolver().query(llamadas, new String[] {Calls.NUMBER,Calls.DATE}, null, null, null);
 		//Cursor c=getContentResolver().query(llamadas, null, null, null, null);
-		
+
+
 		setListAdapter(new miAdaptador(this,c));
 	}
 

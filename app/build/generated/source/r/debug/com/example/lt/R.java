@@ -1678,12 +1678,12 @@ containing a value of this type.
         public static final int text=0x7f0b005d;
         public static final int text2=0x7f0b005b;
         public static final int textSpacerNoButtons=0x7f0b0034;
-        public static final int textView1=0x7f0b0050;
         public static final int time=0x7f0b0059;
         public static final int title=0x7f0b002a;
         public static final int title_template=0x7f0b002f;
         public static final int topPanel=0x7f0b002e;
         public static final int tvFecha=0x7f0b0052;
+        public static final int tvNodata=0x7f0b0050;
         public static final int tvTelefono=0x7f0b0051;
         public static final int up=0x7f0b0008;
         public static final int useLogo=0x7f0b0012;

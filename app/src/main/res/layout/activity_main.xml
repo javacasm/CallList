@@ -5,7 +5,7 @@
     tools:context=".MainActivity" >
 
     <TextView
-        android:id="@android:id/empty"
+        android:id="@+id/tvNodata"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
@@ -17,7 +17,7 @@
         android:id="@android:id/list"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/textView1"
+        android:layout_below="@+id/tvNodata"
         android:layout_centerHorizontal="true" >
 
     </ListView>

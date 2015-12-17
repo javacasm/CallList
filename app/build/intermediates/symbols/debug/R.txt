@@ -524,12 +524,12 @@ int id tabMode 0x7f0b000b
 int id text 0x7f0b005d
 int id text2 0x7f0b005b
 int id textSpacerNoButtons 0x7f0b0034
-int id textView1 0x7f0b0050
 int id time 0x7f0b0059
 int id title 0x7f0b002a
 int id title_template 0x7f0b002f
 int id topPanel 0x7f0b002e
 int id tvFecha 0x7f0b0052
+int id tvNodata 0x7f0b0050
 int id tvTelefono 0x7f0b0051
 int id up 0x7f0b0008
 int id useLogo 0x7f0b0012
