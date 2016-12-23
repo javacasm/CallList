@@ -29,8 +29,8 @@ ADDED from F:\javacasm\AndroidStudioProjects\lt\app\src\main\AndroidManifest.xml
 		ADDED from F:\javacasm\AndroidStudioProjects\lt\app\src\main\AndroidManifest.xml:10:22-70
 application
 ADDED from F:\javacasm\AndroidStudioProjects\lt\app\src\main\AndroidManifest.xml:12:5-26:19
-MERGED from [com.android.support:appcompat-v7:23.1.1] F:\javacasm\AndroidStudioProjects\lt\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] F:\javacasm\AndroidStudioProjects\lt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\javacasm\.android\build-cache\b6620c7f79a8d13323b564c3f0d7d0521831430d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] F:\javacasm\.android\build-cache\01fa0fe9cb78776b59bacb1d06243a2fa217480b\output\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from F:\javacasm\AndroidStudioProjects\lt\app\src\main\AndroidManifest.xml:15:9-41
 	android:allowBackup
@@ -57,8 +57,8 @@ ADDED from F:\javacasm\AndroidStudioProjects\lt\app\src\main\AndroidManifest.xml
 		ADDED from F:\javacasm\AndroidStudioProjects\lt\app\src\main\AndroidManifest.xml:23:27-74
 uses-sdk
 INJECTED from F:\javacasm\AndroidStudioProjects\lt\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:23.1.1] F:\javacasm\AndroidStudioProjects\lt\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] F:\javacasm\AndroidStudioProjects\lt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] F:\javacasm\.android\build-cache\b6620c7f79a8d13323b564c3f0d7d0521831430d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] F:\javacasm\.android\build-cache\01fa0fe9cb78776b59bacb1d06243a2fa217480b\output\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		INJECTED from F:\javacasm\AndroidStudioProjects\lt\app\src\main\AndroidManifest.xml
 		INJECTED from F:\javacasm\AndroidStudioProjects\lt\app\src\main\AndroidManifest.xml

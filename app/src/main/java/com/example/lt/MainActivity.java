@@ -17,7 +17,7 @@ public class MainActivity extends ListActivity {
 
 		
 		Uri llamadas=Uri.parse("content://call_log/calls/");
-		Cursor c=getContentResolver().query(llamadas, new String[] {Calls.NUMBER,Calls.DATE}, null, null, null);
+		Cursor c=getContentResolver().query(llamadas, new String[] {Calls.NUMBER,Calls.DATE, Calls.TYPE}, null, null, null);
 		//Cursor c=getContentResolver().query(llamadas, null, null, null, null);
 
 

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\javacasm\\AndroidStudioProjects\\lt\\app\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
+        "outputFile": "F:\\javacasm\\AndroidStudioProjects\\lt\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "F:\\javacasm\\AndroidStudioProjects\\lt\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-port\\values-port.xml",
+                    "file": "F:\\javacasm\\.android\\build-cache\\b6620c7f79a8d13323b564c3f0d7d0521831430d\\output\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
